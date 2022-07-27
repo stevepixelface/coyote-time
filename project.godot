@@ -17,10 +17,8 @@ run/main_scene="res://src/main/Demo.tscn"
 
 window/size/width=320
 window/size/height=180
-window/size/resizable=false
-window/size/borderless=true
-window/size/test_width=1980
-window/size/test_height=1080
+window/size/test_width=1280
+window/size/test_height=720
 window/stretch/mode="viewport"
 window/stretch/aspect="keep"
 

@@ -10,7 +10,7 @@
 [node name="Camera2D" type="Camera2D" parent="Player"]
 current = true
 smoothing_enabled = true
-smoothing_speed = 20.0
+smoothing_speed = 15.0
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = ExtResource( 1 )

@@ -16,15 +16,15 @@ animations = [ {
 "name": "idle",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 4 ) ],
-"loop": false,
-"name": "jump",
-"speed": 5.0
-}, {
 "frames": [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 6 ), ExtResource( 5 ) ],
 "loop": true,
 "name": "run",
 "speed": 12.0
+}, {
+"frames": [ ExtResource( 4 ) ],
+"loop": false,
+"name": "jump",
+"speed": 5.0
 } ]
 
 [sub_resource type="RectangleShape2D" id=2]
